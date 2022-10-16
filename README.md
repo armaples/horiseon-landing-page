@@ -13,6 +13,7 @@ This project was meant to refactor an existing webpage for Horiseon Social Solut
 - [Languages Used](#languages-used)
 - [Important Links](#important-links)
 - [Credits](#credits)
+- [Application Preview](#application-preview)
 - [License](#license)
     - [MIT License](#mit-license)
 
@@ -86,6 +87,10 @@ New Code
 - [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) 
 - [Writing a README](https://www.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/writing-a-readme)
 - [Choose A License](https://choosealicense.com/licenses/mit/)
+
+## Application Preview
+
+![ApplicationPreview](./assets/images/landingpagepreview.png)
 
 ## License
 
