@@ -7,15 +7,76 @@ This project was meant to refactor an existing webpage for Horiseon Social Solut
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
+- [Code Examples](#code-examples)
+    - [Consolidating CSS](#consolidating-css)
+    - [Renaming HTML Elements](#renaming-html-elements)
+- [Languages Used](#languages-used)
+- [Important Links](#important-links)
 - [Credits](#credits)
 - [License](#license)
+    - [MIT License](#mit-license)
 
 ## Installation
 
 - Clone the repository to your desktop. 
-- Navigate to the main directory (horiseon-landing-page)
+- Navigate to the 'horiseon-landing-page' directory.
+- Navigate to the 'Develop' directory.
 - Open (horiseon-landing-page/index.html) in your browser.
+
+## Code Examples
+
+### Consolidating CSS
+
+Original Code
+```js
+.benefit-lead {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-brand {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+```
+
+New Code
+```js
+.benefit {
+    margin-bottom: 32px;
+    color: #ffffff;
+```
+
+### Renaming HTML Elements
+
+Original Code
+```js
+<div class="benefits">
+    <div class="benefit-lead">
+        <h3>Lead Generation</h3>
+```
+
+New Code
+```js
+ <aside class="benefit-section">
+    <section class="benefit">
+        <h3>Lead Generation</h3>
+```
+
+## Languages Used
+
+- HTML
+- CSS
+
+## Important Links
+
+- Github Repository[https://github.com/armaples/horiseon-landing-page]
+- Deployed Application[]
 
 ## Credits
 - [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) 
@@ -24,7 +85,7 @@ This project was meant to refactor an existing webpage for Horiseon Social Solut
 
 ## License
 
-MIT License
+### MIT License
 
 Copyright (c) 2019 Horiseon Social Solution Services, Inc.
 
