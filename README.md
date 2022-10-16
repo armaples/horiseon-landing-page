@@ -75,8 +75,8 @@ New Code
 
 ## Important Links
 
-- Github Repository[https://github.com/armaples/horiseon-landing-page]
-- Deployed Application[]
+- [Github Repository](https://github.com/armaples/horiseon-landing-page)
+- [Deployed Application](https://armaples.github.io/horiseon-landing-page/)
 
 ## Credits
 - [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) 
