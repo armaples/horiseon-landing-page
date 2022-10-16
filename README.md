@@ -18,12 +18,16 @@ This project was meant to refactor an existing webpage for Horiseon Social Solut
 
 ## Installation
 
-- Clone the repository to your desktop. 
-- Navigate to the 'horiseon-landing-page' directory.
-- Navigate to the 'Develop' directory.
-- Open (horiseon-landing-page/index.html) in your browser.
+- Navigate to the 'clone' button on the github repository and use either SSH or HTTPS link to clone the repository to your computer.
+![Screenshot](./assets/images/installation1.png)
+- On your computer, navigate to the 'horiseon-landing-page' directory. 
+![Screenshot](./assets/images/installation2.png)
+- Open the 'index.html' file in your browser.
+![Screenshot](./assets/images/installation3.png)
 
 ## Code Examples
+
+See below for examples of code that was consolidated/altered for accessibility.
 
 ### Consolidating CSS
 
